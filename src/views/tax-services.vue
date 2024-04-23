@@ -36,12 +36,12 @@
                       ><span class="tax-services-text004">✔</span
                       ><span
                         >Tax Type Registration and advice
-                        <span v-html="raw1j49"></span></span></div
+                        <span v-html="rawkq49"></span></span></div
                     ><div class="tax-services-sub-feature02"
                       ><span class="tax-services-text005">✔</span
                       ><span
                         >Registration Confirmation follow up
-                        <span v-html="raw15vv"></span></span></div
+                        <span v-html="raw32sf"></span></span></div
                     ><div class="tax-services-sub-feature03"
                       ><span class="tax-services-text006">✔</span
                       ><span
@@ -68,12 +68,12 @@
                       ><span class="tax-services-text014">✔</span
                       ><span
                         >Coordination between IRD and the taxpayer
-                        <span v-html="rawbhj2"></span></span></div
+                        <span v-html="rawrscr"></span></span></div
                     ><div class="tax-services-sub-feature06"
                       ><span class="tax-services-text015">✔</span
                       ><span
                         ><span>Advice on VAT Registration</span><br /><span>
-                          <span v-html="rawe99l"></span></span></span></div
+                          <span v-html="rawelyc"></span></span></span></div
                     ><div class="tax-services-sub-feature07"
                       ><span class="tax-services-text019">✔</span
                       ><span
@@ -111,15 +111,15 @@
                       ><span class="tax-services-text028">✔</span
                       ><span
                         ><span>Tax registration</span><br /><span>
-                          <span v-html="rawqyhn"></span></span></span></div
+                          <span v-html="rawgbv1"></span></span></span></div
                     ><div class="tax-services-sub-feature10"
                       ><span class="tax-services-text032">✔</span
                       ><span
                         ><span
                           >Tax advisory service
-                          <span v-html="rawnxms"></span></span
+                          <span v-html="rawvtd3"></span></span
                         ><br /><span>
-                          <span v-html="rawad2o"></span></span></span></div
+                          <span v-html="raw2qw8"></span></span></span></div
                     ><div class="tax-services-sub-feature11"
                       ><span class="tax-services-text036">✔</span
                       ><span
@@ -165,12 +165,12 @@
                       ><span class="tax-services-text050">✔</span
                       ><span
                         ><span>Tax registration</span><br /><span>
-                          <span v-html="rawpa1p"></span></span></span></div
+                          <span v-html="rawes0w"></span></span></span></div
                     ><div class="tax-services-sub-feature17"
                       ><span class="tax-services-text054">✔</span
                       ><span
                         ><span>Quarterly tax payments advices</span><br /><span>
-                          <span v-html="rawhx1t"></span></span></span></div
+                          <span v-html="raw3vo1"></span></span></span></div
                     ><div class="tax-services-sub-feature18"
                       ><span class="tax-services-text058">✔</span
                       ><span
@@ -225,15 +225,15 @@
                       ><span class="tax-services-text077">✔</span
                       ><span
                         >Tax registration
-                        <span v-html="rawazes"></span></span></div
+                        <span v-html="rawz2uv"></span></span></div
                     ><div class="tax-services-sub-feature25"
                       ><span class="tax-services-text078">✔</span
                       ><span
                         ><span
                           >Tax advisory service
-                          <span v-html="raw59h7"></span></span
+                          <span v-html="raw0653"></span></span
                         ><br /><span>
-                          <span v-html="rawueds"></span></span></span></div
+                          <span v-html="rawxaaf"></span></span></span></div
                     ><div class="tax-services-sub-feature26"
                       ><span class="tax-services-text082">✔</span
                       ><span
@@ -287,12 +287,12 @@
                       ><span class="tax-services-text101">✔</span
                       ><span
                         >Tax registration
-                        <span v-html="raw7xg2"></span></span></div
+                        <span v-html="rawjkzw"></span></span></div
                     ><div class="tax-services-sub-feature33"
                       ><span class="tax-services-text102">✔</span
                       ><span
                         ><span>Tax advisory service</span><br /><span>
-                          <span v-html="raw3mgn"></span></span></span></div
+                          <span v-html="rawnx3s"></span></span></span></div
                     ><div class="tax-services-sub-feature34"
                       ><span class="tax-services-text106">✔</span
                       ><span
@@ -357,15 +357,15 @@
                       ><span class="tax-services-text125">✔</span
                       ><span
                         ><span>Tax registration</span><br /><span>
-                          <span v-html="raw1f8x"></span></span></span></div
+                          <span v-html="rawkzyo"></span></span></span></div
                     ><div class="tax-services-sub-feature41"
                       ><span class="tax-services-text129">✔</span
                       ><span
                         ><span
                           >Tax advisory service
-                          <span v-html="raway25"></span></span
+                          <span v-html="rawd9mu"></span></span
                         ><br /><span>
-                          <span v-html="rawvbmq"></span></span></span></div
+                          <span v-html="rawpgtl"></span></span></span></div
                     ><div class="tax-services-sub-feature42"
                       ><span class="tax-services-text133">✔</span
                       ><span
@@ -464,23 +464,23 @@ export default {
   },
   data() {
     return {
-      raw1j49: ' ',
-      raw15vv: ' ',
-      rawbhj2: ' ',
-      rawe99l: ' ',
-      rawqyhn: ' ',
-      rawnxms: ' ',
-      rawad2o: ' ',
-      rawpa1p: ' ',
-      rawhx1t: ' ',
-      rawazes: ' ',
-      raw59h7: ' ',
-      rawueds: ' ',
-      raw7xg2: ' ',
-      raw3mgn: ' ',
-      raw1f8x: ' ',
-      raway25: ' ',
-      rawvbmq: ' ',
+      rawkq49: ' ',
+      raw32sf: ' ',
+      rawrscr: ' ',
+      rawelyc: ' ',
+      rawgbv1: ' ',
+      rawvtd3: ' ',
+      raw2qw8: ' ',
+      rawes0w: ' ',
+      raw3vo1: ' ',
+      rawz2uv: ' ',
+      raw0653: ' ',
+      rawxaaf: ' ',
+      rawjkzw: ' ',
+      rawnx3s: ' ',
+      rawkzyo: ' ',
+      rawd9mu: ' ',
+      rawpgtl: ' ',
     }
   },
   metaInfo: {

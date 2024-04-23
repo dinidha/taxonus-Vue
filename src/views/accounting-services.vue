@@ -35,12 +35,12 @@
                     ><span class="accounting-services-text008">✔</span
                     ><span
                       >Credit card accounts up to 3
-                      <span v-html="raw7mzf"></span></span></div
+                      <span v-html="rawzeud"></span></span></div
                   ><div class="accounting-services-sub-feature02"
                     ><span class="accounting-services-text009">✔</span
                     ><span
                       >Reconcile electronic transactions into an Accounting
-                      Package <span v-html="raw0xcs"></span></span></div
+                      Package <span v-html="rawefv3"></span></span></div
                   ><span class="accounting-services-text010">LKR 9000</span></div
                 ><div class="accounting-services-feature01"
                   ><h1 class="accounting-services-text011">Monthly financials</h1
@@ -51,43 +51,43 @@
                     ><span class="accounting-services-text013">✔</span
                     ><span
                       ><span
-                        >Profit &amp; Loss <span v-html="raw0hcz"></span></span
+                        >Profit &amp; Loss <span v-html="rawh3q4"></span></span
                       ><br /><span>
-                        <span v-html="rawlzxp"></span></span></span></div
+                        <span v-html="rawhk38"></span></span></span></div
                   ><div class="accounting-services-sub-feature05"
                     ><span class="accounting-services-text017">✔</span
                     ><span
-                      ><span>General Ledger <span v-html="raw7z7n"></span></span
+                      ><span>General Ledger <span v-html="raw4fo2"></span></span
                       ><br /><span>
-                        <span v-html="rawmm5k"></span></span></span></div
+                        <span v-html="raw96si"></span></span></span></div
                   ><div class="accounting-services-sub-feature06"
                     ><span class="accounting-services-text021">✔</span
                     ><span
                       ><span>Statement of Cash Flows</span><br /><span>
-                        <span v-html="raw2urw"></span></span></span></div
+                        <span v-html="raw8s28"></span></span></span></div
                   ><span class="accounting-services-text025"
                     ><span>LKR 8000</span><br /></span></div
                 ><div class="accounting-services-feature02"
                   ><h1 class="accounting-services-text028"
-                    >Stock Records <span v-html="rawmb5s"></span></h1
+                    >Stock Records <span v-html="rawtbk6"></span></h1
                   ><div class="accounting-services-sub-feature07"
                     ><span class="accounting-services-text029">✔</span
                     ><span>Stock report up to 20 items</span></div
                   ><span class="accounting-services-text030">LKR 2500</span></div
                 ><div class="accounting-services-feature03"
                   ><h1 class="accounting-services-text031"
-                    >Employee Funds <span v-html="rawii60"></span></h1
+                    >Employee Funds <span v-html="rawj9r0"></span></h1
                   ><div class="accounting-services-sub-feature08"
                     ><span class="accounting-services-text032">✔</span
                     ><span>EPF &amp; ETF returns up to 5 Emps</span></div
                   ><div class="accounting-services-sub-feature09"
                     ><span class="accounting-services-text033">✔</span
                     ><span
-                      >Annual return <span v-html="raw5dgu"></span></span></div
+                      >Annual return <span v-html="rawzqj1"></span></span></div
                   ><span class="accounting-services-text034">LKR 2500</span></div
                 ><div class="accounting-services-feature04"
                   ><h1 class="accounting-services-text035"
-                    >Advice <span v-html="rawf2a2"></span></h1
+                    >Advice <span v-html="raw9mnm"></span></h1
                   ><div class="accounting-services-sub-feature10"
                     ><span class="accounting-services-text036">✔</span
                     ><span
@@ -101,20 +101,20 @@
                     ><span class="accounting-services-text039">✔</span
                     ><span
                       >Essential document storage
-                      <span v-html="rawogbw"></span></span></div
+                      <span v-html="rawzzq3"></span></span></div
                   ><div class="accounting-services-sub-feature12"
                     ><span class="accounting-services-text040">✔</span
                     ><span
                       >Accounting software setup &amp; maintenance
-                      <span v-html="raw6vtl"></span></span></div
+                      <span v-html="raw6h2q"></span></span></div
                   ><div class="accounting-services-sub-feature13"
                     ><span class="accounting-services-text041">✔</span
                     ><span
                       ><span
                         >Expense management with one criterion
-                        <span v-html="raw4h8b"></span></span
+                        <span v-html="raw0wdw"></span></span
                       ><br /><br /><span>
-                        <span v-html="rawa24i"></span></span></span></div
+                        <span v-html="raw0r4w"></span></span></span></div
                   ><span class="accounting-services-text046">LKR 4500</span></div
                 ></div
               ><button class="accounting-services-button buttonOutline"
@@ -143,12 +143,12 @@
                     ><span class="accounting-services-text055">✔</span
                     ><span
                       >Credit card accounts up to 5
-                      <span v-html="rawa4wd"></span></span></div
+                      <span v-html="rawmy0b"></span></span></div
                   ><div class="accounting-services-sub-feature16"
                     ><span class="accounting-services-text056">✔</span
                     ><span
                       >Reconcile electronic transactions into an Accounting
-                      Package <span v-html="raw1x3y"></span></span></div
+                      Package <span v-html="rawlnm8"></span></span></div
                   ><span class="accounting-services-text057">LKR 12000</span></div
                 ><div class="accounting-services-feature07"
                   ><h1 class="accounting-services-text058">Monthly financials</h1
@@ -159,43 +159,43 @@
                     ><span class="accounting-services-text060">✔</span
                     ><span
                       ><span
-                        >Profit &amp; Loss <span v-html="rawppye"></span></span
+                        >Profit &amp; Loss <span v-html="rawvqcv"></span></span
                       ><br /><span>
-                        <span v-html="rawggqq"></span></span></span></div
+                        <span v-html="raw3d02"></span></span></span></div
                   ><div class="accounting-services-sub-feature19"
                     ><span class="accounting-services-text064">✔</span
                     ><span
-                      ><span>General Ledger <span v-html="rawb74q"></span></span
+                      ><span>General Ledger <span v-html="rawtcez"></span></span
                       ><br /><span>
-                        <span v-html="rawse18"></span></span></span></div
+                        <span v-html="rawky0m"></span></span></span></div
                   ><div class="accounting-services-sub-feature20"
                     ><span class="accounting-services-text068">✔</span
                     ><span
                       ><span>Statement of Cash Flows</span><br /><span>
-                        <span v-html="rawf4rk"></span></span></span></div
+                        <span v-html="rawvp9s"></span></span></span></div
                   ><span class="accounting-services-text072"
                     ><span>LKR 10000</span><br /></span></div
                 ><div class="accounting-services-feature08"
                   ><h1 class="accounting-services-text075"
-                    >Stock Records <span v-html="raw8lil"></span></h1
+                    >Stock Records <span v-html="rawf5cc"></span></h1
                   ><div class="accounting-services-sub-feature21"
                     ><span class="accounting-services-text076">✔</span
                     ><span>Stock report up to 20 items</span></div
                   ><span class="accounting-services-text077">LKR 4000</span></div
                 ><div class="accounting-services-feature09"
                   ><h1 class="accounting-services-text078"
-                    >Employee Funds <span v-html="rawme6f"></span></h1
+                    >Employee Funds <span v-html="raw9vls"></span></h1
                   ><div class="accounting-services-sub-feature22"
                     ><span class="accounting-services-text079">✔</span
                     ><span>EPF &amp; ETF returns up to 5 Emps</span></div
                   ><div class="accounting-services-sub-feature23"
                     ><span class="accounting-services-text080">✔</span
                     ><span
-                      >Annual return <span v-html="rawwial"></span></span></div
+                      >Annual return <span v-html="rawqs9m"></span></span></div
                   ><span class="accounting-services-text081">LKR 4000</span></div
                 ><div class="accounting-services-feature10"
                   ><h1 class="accounting-services-text082"
-                    >Advice <span v-html="raw8yyz"></span></h1
+                    >Advice <span v-html="rawetqt"></span></h1
                   ><div class="accounting-services-sub-feature24"
                     ><span class="accounting-services-text083">✔</span
                     ><span
@@ -204,12 +204,12 @@
                   ><span class="accounting-services-text084">LKR 5000</span></div
                 ><div class="accounting-services-feature11"
                   ><h1 class="accounting-services-text085"
-                    >Training <span v-html="rawk51b"></span></h1
+                    >Training <span v-html="rawzpvd"></span></h1
                   ><div class="accounting-services-sub-feature25"
                     ><span class="accounting-services-text086">✔</span
                     ><span
                       >Necessary software training
-                      <span v-html="rawuw1p"></span></span></div
+                      <span v-html="rawuuu6"></span></span></div
                   ><span class="accounting-services-text087">LKR 5000</span></div
                 ><div class="accounting-services-feature12"
                   ><h1 class="accounting-services-text088"
@@ -218,28 +218,28 @@
                     ><span class="accounting-services-text089">✔</span
                     ><span
                       >Essential document storage
-                      <span v-html="raw8uvp"></span></span></div
+                      <span v-html="raw7isr"></span></span></div
                   ><div class="accounting-services-sub-feature27"
                     ><span class="accounting-services-text090">✔</span
                     ><span
                       >Accounting software setup &amp; maintenance
-                      <span v-html="rawghlg"></span></span></div
+                      <span v-html="rawf6f0"></span></span></div
                   ><div class="accounting-services-sub-feature28"
                     ><span class="accounting-services-text091">✔</span
                     ><span>Expense management with two criteria</span></div
                   ><div class="accounting-services-sub-feature29"
                     ><span class="accounting-services-text092">✔</span
                     ><span
-                      >Optional monthly <span v-html="rawidzl"></span></span></div
+                      >Optional monthly <span v-html="rawp7gh"></span></span></div
                   ><div class="accounting-services-sub-feature30"
                     ><span class="accounting-services-text093">✔</span
                     ><span
                       >Optional monthly performance report with key performance
-                      indicators (KPIs) <span v-html="rawrus6"></span></span></div
+                      indicators (KPIs) <span v-html="rawgzx9"></span></span></div
                   ><div class="accounting-services-sub-feature31"
                     ><span class="accounting-services-text094">✔</span
                     ><span
-                      >Class tracking <span v-html="rawabef"></span></span></div
+                      >Class tracking <span v-html="rawjhju"></span></span></div
                   ><span class="accounting-services-text095">LKR 7500</span></div
                 ></div
               ><button class="accounting-services-button1 buttonOutline"
@@ -267,12 +267,12 @@
                     ><span class="accounting-services-text103">✔</span
                     ><span
                       >Credit card accounts up to 5
-                      <span v-html="raw9uer"></span></span></div
+                      <span v-html="rawi2u3"></span></span></div
                   ><div class="accounting-services-sub-feature34"
                     ><span class="accounting-services-text104">✔</span
                     ><span
                       >Reconcile electronic transactions into an Accounting
-                      Package <span v-html="rawen7r"></span></span></div></div
+                      Package <span v-html="rawo6d6"></span></span></div></div
                 ><div class="accounting-services-feature14"
                   ><h1 class="accounting-services-text105">Monthly financials</h1
                   ><div class="accounting-services-sub-feature35"
@@ -282,40 +282,40 @@
                     ><span class="accounting-services-text107">✔</span
                     ><span
                       ><span
-                        >Profit &amp; Loss <span v-html="raw117u"></span></span
+                        >Profit &amp; Loss <span v-html="rawynrr"></span></span
                       ><br /><span>
-                        <span v-html="rawjc1c"></span></span></span></div
+                        <span v-html="rawsq5z"></span></span></span></div
                   ><div class="accounting-services-sub-feature37"
                     ><span class="accounting-services-text111">✔</span
                     ><span
-                      ><span>General Ledger <span v-html="rawqr63"></span></span
+                      ><span>General Ledger <span v-html="rawq2jb"></span></span
                       ><br /><span>
-                        <span v-html="rawmw34"></span></span></span></div
+                        <span v-html="raw6g6h"></span></span></span></div
                   ><div class="accounting-services-sub-feature38"
                     ><span class="accounting-services-text115">✔</span
                     ><span
                       ><span>Statement of Cash Flows</span><br /><span>
-                        <span v-html="rawra4s"></span></span></span></div></div
+                        <span v-html="rawp949"></span></span></span></div></div
                 ><div class="accounting-services-feature15"
                   ><h1 class="accounting-services-text119"
-                    >Stock Records <span v-html="rawjgg9"></span></h1
+                    >Stock Records <span v-html="raw8oza"></span></h1
                   ><div class="accounting-services-sub-feature39"
                     ><span class="accounting-services-text120">✔</span
                     ><span>Stock system</span></div
                   ></div
                 ><div class="accounting-services-feature16"
                   ><h1 class="accounting-services-text121"
-                    >Employee Funds <span v-html="raw38f3"></span></h1
+                    >Employee Funds <span v-html="rawa67r"></span></h1
                   ><div class="accounting-services-sub-feature40"
                     ><span class="accounting-services-text122">✔</span
                     ><span>EPF &amp; ETF returns up to 5 Emps</span></div
                   ><div class="accounting-services-sub-feature41"
                     ><span class="accounting-services-text123">✔</span
                     ><span
-                      >Annual return <span v-html="raw12ih"></span></span></div
+                      >Annual return <span v-html="rawfqxc"></span></span></div
                   ><div class="accounting-services-sub-feature42"
                     ><span class="accounting-services-text124">✔</span
-                    ><span>PAYE <span v-html="raw55h5"></span></span></div></div
+                    ><span>PAYE <span v-html="rawguk5"></span></span></div></div
                 ><div class="accounting-services-feature17"
                   ><h1 class="accounting-services-text125"
                     >Advice &amp; Training</h1
@@ -327,7 +327,7 @@
                     ><span>Strategic planning</span></div
                   ><div class="accounting-services-sub-feature45"
                     ><span class="accounting-services-text128">✔</span
-                    ><span>Tax planning <span v-html="rawlyht"></span></span></div
+                    ><span>Tax planning <span v-html="rawzjot"></span></span></div
                   ><div class="accounting-services-sub-feature46"
                     ><span class="accounting-services-text129">✔</span
                     ><span>Necessary software training</span></div
@@ -342,12 +342,12 @@
                     ><span class="accounting-services-text132">✔</span
                     ><span
                       >Essential document storage
-                      <span v-html="rawqxrm"></span></span></div
+                      <span v-html="rawsm2q"></span></span></div
                   ><div class="accounting-services-sub-feature49"
                     ><span class="accounting-services-text133">✔</span
                     ><span
                       >Accounting software setup &amp; maintenance
-                      <span v-html="rawkiec"></span></span></div
+                      <span v-html="raw1qrn"></span></span></div
                   ><div class="accounting-services-sub-feature50"
                     ><span class="accounting-services-text134">✔</span
                     ><span>Expense management</span></div
@@ -355,12 +355,12 @@
                     ><span class="accounting-services-text135">✔</span
                     ><span
                       >Optional monthly performance report with key performance
-                      indicators (KPIs) <span v-html="raw6w2c"></span></span></div
+                      indicators (KPIs) <span v-html="rawdf8e"></span></span></div
                   ><div class="accounting-services-sub-feature52"
                     ><span class="accounting-services-text136">✔</span
                     ><span
                       >Class and location tracking
-                      <span v-html="rawg4m6"></span></span></div></div></div
+                      <span v-html="raw2zq5"></span></span></div></div></div
               ><button class="accounting-services-button2 buttonOutline"
                 >Continue with Free</button
               ></div
@@ -420,55 +420,55 @@ export default {
   },
   data() {
     return {
-      raw7mzf: ' ',
-      raw0xcs: ' ',
-      raw0hcz: ' ',
-      rawlzxp: ' ',
-      raw7z7n: ' ',
-      rawmm5k: ' ',
-      raw2urw: ' ',
-      rawmb5s: ' ',
-      rawii60: ' ',
-      raw5dgu: ' ',
-      rawf2a2: ' ',
-      rawogbw: ' ',
-      raw6vtl: ' ',
-      raw4h8b: ' ',
-      rawa24i: ' ',
-      rawa4wd: ' ',
-      raw1x3y: ' ',
-      rawppye: ' ',
-      rawggqq: ' ',
-      rawb74q: ' ',
-      rawse18: ' ',
-      rawf4rk: ' ',
-      raw8lil: ' ',
-      rawme6f: ' ',
-      rawwial: ' ',
-      raw8yyz: ' ',
-      rawk51b: ' ',
-      rawuw1p: ' ',
-      raw8uvp: ' ',
-      rawghlg: ' ',
-      rawidzl: ' ',
-      rawrus6: ' ',
-      rawabef: ' ',
-      raw9uer: ' ',
-      rawen7r: ' ',
-      raw117u: ' ',
-      rawjc1c: ' ',
-      rawqr63: ' ',
-      rawmw34: ' ',
-      rawra4s: ' ',
-      rawjgg9: ' ',
-      raw38f3: ' ',
-      raw12ih: ' ',
-      raw55h5: ' ',
-      rawlyht: ' ',
-      rawqxrm: ' ',
-      rawkiec: ' ',
-      raw6w2c: ' ',
-      rawg4m6: ' ',
+      rawzeud: ' ',
+      rawefv3: ' ',
+      rawh3q4: ' ',
+      rawhk38: ' ',
+      raw4fo2: ' ',
+      raw96si: ' ',
+      raw8s28: ' ',
+      rawtbk6: ' ',
+      rawj9r0: ' ',
+      rawzqj1: ' ',
+      raw9mnm: ' ',
+      rawzzq3: ' ',
+      raw6h2q: ' ',
+      raw0wdw: ' ',
+      raw0r4w: ' ',
+      rawmy0b: ' ',
+      rawlnm8: ' ',
+      rawvqcv: ' ',
+      raw3d02: ' ',
+      rawtcez: ' ',
+      rawky0m: ' ',
+      rawvp9s: ' ',
+      rawf5cc: ' ',
+      raw9vls: ' ',
+      rawqs9m: ' ',
+      rawetqt: ' ',
+      rawzpvd: ' ',
+      rawuuu6: ' ',
+      raw7isr: ' ',
+      rawf6f0: ' ',
+      rawp7gh: ' ',
+      rawgzx9: ' ',
+      rawjhju: ' ',
+      rawi2u3: ' ',
+      rawo6d6: ' ',
+      rawynrr: ' ',
+      rawsq5z: ' ',
+      rawq2jb: ' ',
+      raw6g6h: ' ',
+      rawp949: ' ',
+      raw8oza: ' ',
+      rawa67r: ' ',
+      rawfqxc: ' ',
+      rawguk5: ' ',
+      rawzjot: ' ',
+      rawsm2q: ' ',
+      raw1qrn: ' ',
+      rawdf8e: ' ',
+      raw2zq5: ' ',
     }
   },
   metaInfo: {

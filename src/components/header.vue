@@ -87,22 +87,21 @@
 export default {
   name: 'Header',
   props: {
-    rootClassName: String,
+    nav121: {
+      type: String,
+      default: 'Home',
+    },
+    logo: {
+      type: String,
+      default: 'Taxonus',
+    },
     register1: {
       type: String,
       default: 'Register',
     },
-    login1: {
-      type: String,
-      default: 'Login',
-    },
-    nav521: {
+    nav52: {
       type: String,
       default: 'Contact Us',
-    },
-    nav421: {
-      type: String,
-      default: 'Accounting Services',
     },
     nav321: {
       type: String,
@@ -112,9 +111,9 @@ export default {
       type: String,
       default: 'About Us',
     },
-    nav121: {
+    nav22: {
       type: String,
-      default: 'Home',
+      default: 'About Us',
     },
     logo1: {
       type: String,
@@ -124,33 +123,34 @@ export default {
       type: String,
       default: 'Register',
     },
+    login1: {
+      type: String,
+      default: 'Login',
+    },
     login: {
       type: String,
       default: 'Login',
     },
-    nav52: {
+    nav42: {
+      type: String,
+      default: 'Accounting Services',
+    },
+    nav521: {
       type: String,
       default: 'Contact Us',
     },
-    nav42: {
+    rootClassName: String,
+    nav12: {
+      type: String,
+      default: 'Home',
+    },
+    nav421: {
       type: String,
       default: 'Accounting Services',
     },
     nav32: {
       type: String,
       default: 'Tax Services',
-    },
-    nav22: {
-      type: String,
-      default: 'About Us',
-    },
-    nav12: {
-      type: String,
-      default: 'Home',
-    },
-    logo: {
-      type: String,
-      default: 'Taxonus',
     },
   },
 }
